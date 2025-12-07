@@ -6,7 +6,7 @@ A MERN Stack Developer & AI Learner — building modern Web Apps, Backend System
 
 <!-- ANIMATED DOT NAME -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=2F81F7&center=true&vCenter=true&width=500&lines=J+.+U+.+N+.+A+.+I+.+D+.+;N+.+A+.+W+.+A+.+Z+.;MERN+Developer;AI+%26+Automation+Enthusiast" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=2F81F7&center=true&vCenter=true&width=500&lines=J+U+N+A+I+D+;N+A+W+A+Z+.;MERN+Developer;AI+%26+Automation+Enthusiast" alt="Typing Animation">
 </div>
 
 <br/>
